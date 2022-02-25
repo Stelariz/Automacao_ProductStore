@@ -1,0 +1,7 @@
+pages\HomePageProject.class
+pages\CartPageProject.class
+pages\ContactPageProject.class
+pages\InventaryPageProject.class
+pages\OrdingPageProject.class
+stepsdefinitions\Hooks.class
+stepsdefinitions\StepsDefinitonProject.class
